@@ -1,0 +1,59 @@
+.main-title{
+    color:bisque;
+    background-color: darkolivegreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center; 
+    border-radius: 10%;
+    border-color: bisque;
+    border-width: 5px;
+    border-style: dotted;
+    padding:10px;
+    margin:15px;
+}
+html{
+    background-color:sienna;
+}
+.movies{
+    color:bisque;
+    background-color: darkolivegreen;
+    font-family: monospace;
+    font-size: 18px;
+    float:left;
+    margin: 15px;
+    border-color:bisque;
+    border-width: 5px;
+    border-style:solid;
+    padding:10px;
+}
+.music{ color:sienna;
+    background-color: bisque;
+    font-family: monospace;
+    font-size: 18px;
+    float: right;
+    margin: 15px;
+    padding:20px;
+    border-color:darkolivegreen;
+    border-width: 5px;
+    border-style:solid;
+}
+.image-title{
+    text-align: left;
+    margin-right: 25px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: bisque;
+    font-family: monospace;
+    font-size: 30px;
+}
+.images {
+    clear:both;
+    margin:15px;
+}
+img {
+    margin: 15px;
+    border-color:bisque;
+    border-width: 5px;
+    border-style: dotted;
+    padding:5px;
+}
